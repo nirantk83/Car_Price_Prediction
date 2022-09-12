@@ -18,7 +18,7 @@ WORKDONE
 
 CONCLUSION
 
-1] By Applying linear model we predict the cars price by input different parameter 
+1] By Applying linear model we predict the cars price by taking different parameter from user. 
 
 
 
